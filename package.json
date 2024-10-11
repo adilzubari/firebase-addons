@@ -1,0 +1,36 @@
+{
+  "name": "@adilzubari/firebase-addons",
+  "version": "0.0.1",
+  "description": "Firebase addons is a powerful package offered by Kamboh SDK to manage Firebase easily.",
+  "main": "index.js",
+  "bin": {
+    "kamboh": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "express-generator",
+    "nodejs",
+    "javascript",
+    "web-development",
+    "project-starter",
+    "cli-tool",
+    "automation",
+    "dev-tools",
+    "developers"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adilzubari/firebase-addons.git"
+  },
+  "author": "Muhammad Adil Kamboh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adilzubari/firebase-addons/issues"
+  },
+  "homepage": "https://github.com/adilzubari/firebase-addons#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
